@@ -4,7 +4,7 @@
 # Hardware spec
 - CPU：i5-9600k
 - MainBoard: MSI Z390 Gaming Plus
-- Memeory: 32G
+- Memory: 32G
 - Graphics Card: Rx590 8G
 - BT&Wifi：Fenvi HB1200
 - [Youtube](https://www.youtube.com/watch?v=QDfNgOydUp8)
